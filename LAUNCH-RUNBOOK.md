@@ -1,6 +1,13 @@
 # LAUNCH-RUNBOOK — makefun-coin-promo-01 ("Proof of Ship" / SHIP)
 
-**Status: PREP ONLY. No coin has been launched. No SOL has been spent.
+**Status: LAUNCHED 2026-11-15 14:58:41 WIB — see §6 for the receipt.**
+- Mint: `NLkqd7WfeDmC9MUAswRint9dthQCXfkxcEsFW6NpWR7`
+- Create signature: `pwu21FikgX8hYUJzcGEeCZbd7WErNsjCFxYGKeoLubhaGTzvkum36otHGM7uXkYtjGCMfNU4ML6cbeBHfCbjx6M`
+- Actual SOL spent: **0.01779256** (exactly the simulated figure; no 0.02 platform fee was charged). Wallet after: 0.03543786 SOL.
+- Metadata URI used: `https://raw.githubusercontent.com/tacinbau/proof-of-ship/main/metadata.json` (pump.fun IPFS upload was Cloudflare-blocked from the VM and returned HTTP 500 from the browser, so the GitHub-hosted metadata route was used instead).
+- Repo: https://github.com/tacinbau/proof-of-ship (created 14:54 WIB; LAUNCH.json filled in a later commit).
+
+**Original status (pre-launch): PREP ONLY. No coin has been launched. No SOL has been spent.
 Nothing in this runbook is executed until BOTH gates below are met.**
 
 ## 0. The two gates — both must be true before any launch step
